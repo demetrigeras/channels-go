@@ -13,6 +13,7 @@ func main() {
 		"http://stackoverflow.com",
 		"http://golang.org",
 		"http://amazon.com",
+		"http://nike.com",
 	}
 	for _, link := range links {
 		checkLink(link)
